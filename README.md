@@ -6,8 +6,14 @@ Also work with Android, IOs mobile platforms, desktop and standalone VR devices
 (Oculus Quest 2, PICO Neo 3, HTC Vive, WMR, Steam Index). Have experience in
 training groups of people and mentoring junior colleagues.
 
-# Example of my code
+## Example of my code
 * [Test task example](https://github.com/NooBiTTo/TestTaskExample)
+
+## Useful links
+
+- [CV]()
+- [LinkedIn](https://www.linkedin.com/in/aliaksandr-kanonik-525959195/)
+- [Telegram](https://t.me/aleksandrkanonik)
 
 Here are some ideas to get you started:
 
