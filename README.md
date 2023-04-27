@@ -11,7 +11,7 @@ training groups of people and mentoring junior colleagues.
 
 ## Useful links
 
-- [CV]()
+- [CV](https://github.com/NooBiTTo/CV/blob/main/Unity_Developer_Aliaksandr_Kanonik.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aliaksandr-kanonik-525959195/)
 - [Telegram](https://t.me/aleksandrkanonik)
 
