@@ -15,7 +15,7 @@ training groups of people and mentoring junior colleagues.
 * [Gravity Simulator](https://www.facebook.com/abelanavr/videos/1506972989803097) 
 
 ## Examples of my code
-* [Test task example](https://github.com/NooBiTTo/TestTaskExample)
+* [Test task example](https://github.com/NooBiTTo/TestTaskExample) - task on Generalist Unity Developer position
 
 ## Useful links
 
