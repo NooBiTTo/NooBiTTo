@@ -7,7 +7,7 @@ Also work with Android, IOs mobile platforms, desktop and standalone VR devices
 training groups of people and mentoring junior colleagues.
 
 # Example of my code
-* [Test task example](#https://github.com/NooBiTTo/TestTaskExample)
+* [Test task example](https://github.com/NooBiTTo/TestTaskExample)
 
 Here are some ideas to get you started:
 
