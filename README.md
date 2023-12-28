@@ -12,7 +12,14 @@ training groups of people and mentoring junior colleagues.
 * [Visceral Science VR](https://abelanavr.com/visceral-science)
 * [Near the Speed of Light (Mobile + VR)](https://apps.apple.com/us/app/near-the-speed-of-light/id1580101816)
 * [Visceral Science Independent Mobile](https://play.google.com/store/apps/details?id=com.abelanavr.visceralsciencear&hl=en_US&gl=US)
-* [Gravity Simulator](https://www.facebook.com/abelanavr/videos/1506972989803097) 
+* [Gravity Simulator](https://www.facebook.com/abelanavr/videos/1506972989803097)
+
+## Links to my HC game prototypes
+* [Flying Card](https://youtube.com/shorts/6acC_psT24g)
+* [Rubic Sphere](https://youtube.com/shorts/krmjKxz_AGg)
+* [Runner Coin](https://youtube.com/shorts/LVGnvpaQ0NY)
+* [LockIn](https://youtube.com/shorts/ixzLjJ7w8xY)
+* [Habbitable Donuts](https://youtube.com/shorts/VfK3BYi_XLU)
 
 ## Examples of my code
 * [Test task example](https://github.com/NooBiTTo/TestTaskExample) - task on Generalist Unity Developer position
