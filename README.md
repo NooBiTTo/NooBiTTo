@@ -22,7 +22,7 @@ training groups of people and mentoring junior colleagues.
 * [Habbitable Donuts](https://youtube.com/shorts/VfK3BYi_XLU)
 
 ## Examples of my code
-* [Test task example](https://github.com/NooBiTTo/TestTaskExample) - task on Generalist Unity Developer position
+* [Test task example](https://github.com/NooBiTTo/TestTaskExample) - task to Generalist Unity Developer position
 
 ## Useful links
 
