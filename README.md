@@ -13,8 +13,8 @@ experience in training groups of people and mentoring junior colleagues.
 * [Near the Speed of Light (Mobile + VR)](https://apps.apple.com/us/app/near-the-speed-of-light/id1580101816)
 * [Visceral Science Independent Mobile](https://play.google.com/store/apps/details?id=com.abelanavr.visceralsciencear&hl=en_US&gl=US)
 * [Gravity Simulator](https://www.facebook.com/abelanavr/videos/1506972989803097)
-* [Visceral Science Web]
-* [Near the Speed of Light Web]
+* [Visceral Science Web](https://abelanavr.com/web-applications/visceral-science)
+* [Near the Speed of Light Web](https://abelanavr.com/web-applications/near-the-speed-of-light)
 
 ## Links to my HC game prototypes
 * [Flying Card](https://youtube.com/shorts/6acC_psT24g)
