@@ -1,11 +1,11 @@
 # Welcome to my GitHub ✌
 
 ## Summary
-Result-oriented Unity developer with 2+ years experience. Have expertise in
-gameplay mechanics, multiplayer on multiplatforms, application architecture design.
-Also work with Android, IOs mobile platforms, desktop and standalone VR devices
-(Oculus Quest 2, PICO Neo 3, HTC Vive, WMR, Steam Index). Have experience in
-training groups of people and mentoring junior colleagues.
+Result-oriented Unity developer 3+ years experience. Have expertise in gameplay
+mechanics, multiplayer on multiplatforms, application architecture design. Also work
+with Android, IOs mobile platforms, WebGL platform, desktop and standalone VR
+devices (Oculus Quest 2, PICO Neo 3, HTC Vive, WMR, Steam Index). Have
+experience in training groups of people and mentoring junior colleagues.
 
 ## Links to my projects
 * [Blitz Bullet](https://play.google.com/store/apps/details?id=com.iridescent.BlitzBullet&hl=en_US&gl=US)
@@ -13,6 +13,8 @@ training groups of people and mentoring junior colleagues.
 * [Near the Speed of Light (Mobile + VR)](https://apps.apple.com/us/app/near-the-speed-of-light/id1580101816)
 * [Visceral Science Independent Mobile](https://play.google.com/store/apps/details?id=com.abelanavr.visceralsciencear&hl=en_US&gl=US)
 * [Gravity Simulator](https://www.facebook.com/abelanavr/videos/1506972989803097)
+* [Visceral Science Web]
+* [Near the Speed of Light Web]
 
 ## Links to my HC game prototypes
 * [Flying Card](https://youtube.com/shorts/6acC_psT24g)
