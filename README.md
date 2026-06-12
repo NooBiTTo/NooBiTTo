@@ -1,33 +1,40 @@
 # Welcome to my GitHub ✌
 
 ## Summary
-Result-oriented Unity developer 3+ years experience. Have expertise in gameplay
-mechanics, multiplayer on multiplatforms, application architecture design. Also work
-with Android, IOs mobile platforms, WebGL platform, desktop and standalone VR
-devices (Oculus Quest 2, PICO Neo 3, HTC Vive, WMR, Steam Index). Have
-experience in training groups of people and mentoring junior colleagues.
+Unity Developer with 5+ years of commercial experience in Mobile, VR, and WebGL development.
+Focused on scalable gameplay systems, clean architecture, performance optimization. Experienced with Android, iOS, WebGL, Oculus Quest 2/3, Desktop VR, Pico, HTC Vive, and WMR platforms.
+Strong background in gameplay programming, ECS architecture, code refactoring, optimization, and cross-functional collaboration.
+Working on mobile games with a combined audience of 10M+ downloads.
 
-## Links to my projects
-* [Blitz Bullet](https://play.google.com/store/apps/details?id=com.iridescent.BlitzBullet&hl=en_US&gl=US)
-* [Visceral Science VR](https://abelanavr.com/visceral-science)
-* [Near the Speed of Light (Mobile + VR)](https://apps.apple.com/us/app/near-the-speed-of-light/id1580101816)
-* [Visceral Science Independent Mobile](https://play.google.com/store/apps/details?id=com.abelanavr.visceralsciencear&hl=en_US&gl=US)
-* [Gravity Simulator](https://www.facebook.com/abelanavr/videos/1506972989803097)
-* [Visceral Science Web](https://abelanavr.com/web-applications/visceral-science)
-* [Near the Speed of Light Web](https://abelanavr.com/web-applications/near-the-speed-of-light)
+## Links to my personal projects
+* [Toweris VR](https://www.towerisvr.com/#intro)
+  
+## Links to my projects in Appercut
+* [Meme Bots: Brainrot Chase Rooms](https://play.google.com/store/apps/details?id=com.m4pmedia.nextbotevade)
+* [UwU: Go Impact](https://www.youtube.com/watch?v=tP1GG1uuihI)
+* [Horse Land](https://play.google.com/store/apps/details?id=com.m4pmedia.horsejam&hl=en_US)
+* [Horse Escape](https://play.google.com/store/apps/details?id=com.m4pmedia.horselandoriginal&hl=en_US)
+* [I Am Street Guy](https://play.google.com/store/apps/details?id=com.m4pmedia.iamstreetguy&hl=en)
 
-## Links to my HC game prototypes
-* [Flying Card](https://youtube.com/shorts/6acC_psT24g)
+## Links to my projects in Abelana VR
+* [BlitzBullet](https://www.youtube.com/watch?v=xUrTe32YAQI)
+* [Visceral Science VR](https://www.youtube.com/watch?v=dsXOSnHPWvQ)
+* [Near the Speed of Light](https://www.youtube.com/watch?v=UNDiaHWmtIs)
+* [Atom Maker](https://www.youtube.com/watch?v=FlP8CnCEtvI&list=PLjrOkWv_kwmAS2-yYtGRGOmZ9rk2JsohC)
+* [Gravity Simulator](https://www.youtube.com/watch?v=W3UiJ-2Q7tY)
+* [Visceral Science Web](https://abelanavr.com/web-applications/stellar-simulator)
+* [Near the Speed of Light Web](https://abelanavr.com/web-applications/light-speed-simulator)
+
+## Links to my game prototypes
+* [Inhabitable Planets](https://youtube.com/shorts/TxRIqIWFdw8)
+* [Habitable Donuts](https://youtube.com/shorts/VfK3BYi_XLU)
+* [LockIn](https://youtube.com/shorts/ixzLjJ7w8xY)
+* [Blitz Bullet](https://www.youtube.com/watch?v=xUrTe32YAQI)
 * [Rubic Sphere](https://youtube.com/shorts/krmjKxz_AGg)
 * [Runner Coin](https://youtube.com/shorts/LVGnvpaQ0NY)
-* [LockIn](https://youtube.com/shorts/ixzLjJ7w8xY)
-* [Habbitable Donuts](https://youtube.com/shorts/VfK3BYi_XLU)
-
-## Examples of my code
-* [Test task example](https://github.com/NooBiTTo/TestTaskExample) - task to Generalist Unity Developer position
+* [Flying Card](https://youtube.com/shorts/6acC_psT24g)
 
 ## Useful links
-
-- [CV](https://github.com/NooBiTTo/CV/blob/main/Unity_Developer_Aliaksandr_Kanonik.pdf)
+- [CV](./Unity_Developer_Aliaksandr_Kanonik.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aliaksandr-kanonik-525959195/)
 - [Telegram](https://t.me/aleksandrkanonik)
