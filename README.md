@@ -34,6 +34,6 @@ Working on mobile games with a combined audience of 40M+ downloads.
 * [Flying Card](https://youtube.com/shorts/6acC_psT24g)
 
 ## Useful links
-- [CV](./Unity_Developer_Aliaksandr_Kanonik.pdf)
+- [CV](https://github.com/NooBiTTo/CV/blob/main/Unity_Developer_Aliaksandr_Kanonik.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aliaksandr-kanonik-525959195/)
 - [Telegram](https://t.me/aleksandrkanonik)
