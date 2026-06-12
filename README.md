@@ -4,10 +4,10 @@
 Unity Developer with 5+ years of commercial experience in Mobile, VR, and WebGL development.
 Focused on scalable gameplay systems, clean architecture, performance optimization. Experienced with Android, iOS, WebGL, Oculus Quest 2/3, Desktop VR, Pico, HTC Vive, and WMR platforms.
 Strong background in gameplay programming, ECS architecture, code refactoring, optimization, and cross-functional collaboration.
-Working on mobile games with a combined audience of 10M+ downloads.
+Working on mobile games with a combined audience of 40M+ downloads.
 
 ## Links to my personal projects
-* [Toweris VR](https://www.towerisvr.com/#intro)
+* [Toweris VR](https://www.towerisvr.com/#intro) (ADD TO WISHLIST!)
   
 ## Links to my projects in Appercut
 * [Meme Bots: Brainrot Chase Rooms](https://play.google.com/store/apps/details?id=com.m4pmedia.nextbotevade)
