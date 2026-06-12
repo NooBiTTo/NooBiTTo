@@ -29,7 +29,6 @@ Working on mobile games with a combined audience of 40M+ downloads.
 * [Inhabitable Planets](https://youtube.com/shorts/TxRIqIWFdw8)
 * [Habitable Donuts](https://youtube.com/shorts/VfK3BYi_XLU)
 * [LockIn](https://youtube.com/shorts/ixzLjJ7w8xY)
-* [Blitz Bullet](https://www.youtube.com/watch?v=xUrTe32YAQI)
 * [Rubic Sphere](https://youtube.com/shorts/krmjKxz_AGg)
 * [Runner Coin](https://youtube.com/shorts/LVGnvpaQ0NY)
 * [Flying Card](https://youtube.com/shorts/6acC_psT24g)
