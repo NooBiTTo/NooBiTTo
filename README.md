@@ -7,7 +7,7 @@ Strong background in gameplay programming, ECS architecture, code refactoring, o
 Working on mobile games with a combined audience of 40M+ downloads.
 
 ## Example of code
-* [Generalist Unity Developer Position Test Task code exanple](https://github.com/NooBiTTo/TestTaskExample)
+* [Generalist Unity Developer Position Test Task code example](https://github.com/NooBiTTo/TestTaskExample)
 
 ## Links to my personal projects
 * [Toweris VR](https://www.towerisvr.com/#intro) (ADD TO WISHLIST!)
