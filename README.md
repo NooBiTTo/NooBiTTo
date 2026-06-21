@@ -6,6 +6,9 @@ Focused on scalable gameplay systems, clean architecture, performance optimizati
 Strong background in gameplay programming, ECS architecture, code refactoring, optimization, and cross-functional collaboration.
 Working on mobile games with a combined audience of 40M+ downloads.
 
+## Example of code
+* [Generalist Unity Developer Position Test Task code exanple](https://github.com/NooBiTTo/TestTaskExample)
+
 ## Links to my personal projects
 * [Toweris VR](https://www.towerisvr.com/#intro) (ADD TO WISHLIST!)
   
